@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/anilsenay/next-e-commerce">
+  <a href="https://github.com/toptalhook/next-e-commerce">
     <img src="https://i.ibb.co/ZzG3GtN/index.png" alt="Header photo" >
   </a>
 
@@ -8,49 +8,8 @@
   
   <h4 align="center">Demo: <a href="https://next-e-commerce-example.vercel.app/">https://next-e-commerce-example.vercel.app/</a></h4>
 
-  <p align="center">
-    An e-commerce website example built with Next.js that I made in 1 week as a self challenge. There are some issues that I will handle later. Using Firebase as backend.
-    <br />
-    <br />
-    <a href="https://twitter.com/anilsenay">Contact me</a>
-    ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Request Feature</a>
-  </p>
-</p>
-
+ 
 <!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [About the Project](#about-the-project)
-  - [Built With](#built-with)
-- [Screenshots](#screenshots)
-  - [Home (News In)](#news-in)
-  - [Categories](#categories)
-  - [Product](#product)
-  - [Cart](#cart)
-  - [Account](#account)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Issues / Feature Plans](#issues---future-plans)
-- [Contributing](#contributing)
-- [Questions & Answers](#q--a)
-- [License](#license)
-- [Contact](#contact)
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-I saw a UI design on Dribbble by [Anton Mikhaltsov](https://dribbble.com/shots/9404340-Shop-Clothing-Web-Page). And I wanted to code this design. So I decided to make it a full working website with NextJS but in just 1 week as challenge myself. Some issues are still there but I will check out them later.
-
-- Filter and Sort buttons are not working yet.
-- ~~Website is not responsive %100 because of time was not enought. I am working on it currently.~~ Now, it is responsive.
-- Firebase functions could be better
-- Home page(News In) cards has no redirects. They are just placeholders.
 
 ### Built With
 
