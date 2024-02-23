@@ -85,38 +85,7 @@ NEXT_PUBLIC_FIREBASE_APP_ID = your-firebase-app-id
 npm run dev
 ```
 
-<!-- Issues / Future plans -->
-
-## Issues - Future plans
-
-- Filter and Sort buttons
-- Optimize firestore query functions
-- On cart page, decrease item button is not working
-- ~~Website will be %100 responsive~~
-- Replace some HTML tags with semantic tags
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-## License
-
-Distributed under the GPL License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-
 ## Contact
 
-[@anilsenay](https://twitter.com/anilsenay)
 
-Project Link: [https://github.com/anilsenay/next-e-commerce](https://github.com/anilsenay/next-e-commerce)
+Project Link: [https://github.com/toptalhook/next-e-commerce](https://github.com/toptalhook/next-e-commerce)
